@@ -97,8 +97,7 @@ body {
     padding-right: 65px;
 }
 
-.img_left,
-.img_right {
+.img_left,.img_right {
     width: 36px;
     height: 27px;
 }
